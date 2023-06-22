@@ -1,0 +1,41 @@
+.bg{
+    background-color:lightyellow;
+    margin: 10px
+}
+
+
+#first{
+    color:blueviolet;
+    text-align: center;
+}
+
+.text
+{ color:saddlebrown;
+  font-weight: bold;
+  text-align: right;
+}
+.image{
+   
+    margin-left: 20%;
+}
+.routine{
+    color:cornflowerblue;
+    margin-left:20%;
+}
+#list{
+    margin-left:20%;
+}
+.para{
+    color:crimson;
+    text-align:center;
+}
+.align{
+    margin-left:40%;
+}
+
+
+  table,th,td{
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
