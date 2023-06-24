@@ -42,9 +42,8 @@
 }
 .align{
     display:grid;
-    grid-template-rows: 30px;
-    /* border:1px solid black; */
-    grid-row-gap:15px;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-gap:15px;
 }
 .hotel{
     grid-template-columns: 30px;
